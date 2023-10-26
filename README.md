@@ -37,10 +37,7 @@ I love exploring new technologies and I am practicing my :cloud: 💻Cloud Engin
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40">
   </a>
    <a style="text-decoration:none;" target="_blank" href="">
-    <img src="" alt="Express" width="40" height="40">
-  </a>
-   <a style="text-decoration:none;" target="_blank" href="">
-    <img src="" alt="REST" width="40" height="40">
+    <img src="https://github.com/TheDescendant39/Tools-and-Technologies-for-Github-README.md/blob/main/Node_Express.png" alt="Express" width="40" height="40">
   </a>
    <a style="text-decoration:none;" target="_blank" href="">
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg" alt="MySQL" width="40" height="40">
@@ -49,13 +46,13 @@ I love exploring new technologies and I am practicing my :cloud: 💻Cloud Engin
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mongodb.svg" alt="MongoDB" width="40" height="40">
   </a>
    <a style="text-decoration:none;" target="_blank" href="">
-    <img src="" alt="JUnit" width="40" height="40">
+    <img src="https://github.com/TheDescendant39/Tools-and-Technologies-for-Github-README.md/blob/main/JUnit.png" alt="JUnit" width="40" height="40">
   </a>
    <a style="text-decoration:none;" target="_blank" href="">
-    <img src="" alt="Selenium" width="40" height="40">
+    <img src="https://github.com/TheDescendant39/Tools-and-Technologies-for-Github-README.md/blob/main/Selenium.png" alt="Selenium" width="40" height="40">
   </a>
    <a style="text-decoration:none;" target="_blank" href="">
-    <img src="" alt="Cucumber" width="40" height="40">
+    <img src="https://github.com/TheDescendant39/Tools-and-Technologies-for-Github-README.md/blob/main/Cucumber.png" alt="Cucumber" width="40" height="40">
   </a>
 </div>
 
