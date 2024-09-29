@@ -2,7 +2,7 @@
 Email: vanshpt09s@gmail.com
 
 ### About Me ###
-Curious 🤔 Software Engineer based out of California. 
+Curious 🤔 Software Engineer based in USA. 
 
 I love exploring new technologies and I am practicing my :cloud: 💻Cloud Engineering skills to broaden my skill set. I have already completed my [AWS Cloud Practioner](https://www.credly.com/badges/b11e7b3f-94cd-40e8-a8f3-a3a4b85075dd/linked_in_profile) certification and am on my way to completing Solution Architect certification.
 
