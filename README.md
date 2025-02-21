@@ -4,16 +4,16 @@ Email: vanshpt09s@gmail.com
 ### About Me ###
 Curious 🤔 Software Engineer based in USA. 
 
-I love exploring new technologies and I am practicing my :cloud: 💻Cloud Engineering skills to broaden my skill set. I have already completed my [AWS Cloud Practioner](https://www.credly.com/badges/b11e7b3f-94cd-40e8-a8f3-a3a4b85075dd/linked_in_profile) certification and am on my way to completing Solution Architect certification.
+I love exploring new technologies and I am practicing my :cloud: 💻Cloud Engineering skills to broaden my skill set. I have already completed my [AWS Solutions Architect Certification](https://www.credly.com/badges/b9860241-75ba-435a-adf9-5c237ea7a59b) certification and am on my way to completing Solution Architect certification.
 
 
 - 👨‍🎓 I graduated with a Masters in Computer Science from [UC Irvine](https://uci.edu/)
 - 👨‍💻 I was a Software Developer and Intern at [@SAP](https://www.sap.com/index.html)
-- 🔭 I’m currently working on [Human Good Network Web App](https://github.com/OneCommunityGlobal/HighestGoodNetworkApp)
-- 🌱 I’m currently learning [AWS Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/), [Testing Automation](https://github.com/TheDescendant39/SeleniumTests) and 🎹Piano
+- 🔭 I worked on [Human Good Network Web App](https://github.com/OneCommunityGlobal/HighestGoodNetworkApp)
+- 🌱 I’m currently practising serverless architecture on AWS, and learning how to play 🎹Piano
 - 👯 I’m looking to collaborate on open-source projects that will allow me to hone my web development skills and learn machine learning models
 - 🏃 If I am not working, you will find me 🥾⛰️:[Hiking](https://www.alltrails.com/members/vansh-patel-4?ref=header), [Running](https://www.strava.com/athletes/104741922) or [Reading](https://www.goodreads.com/book/show/44767458-dune)
-- 💬 Ask me about **Java, Spring Boot, React, Javascript, MySQL, MongoDB, REST**
+- 💬 Ask me about **Java, AWS, Spring Boot, React, Javascript, MySQL, MongoDB, REST**
 - ⚡ Fun fact: I used to play [Tabla](https://en.wikipedia.org/wiki/Tabla), [Piano](https://en.wikipedia.org/wiki/Piano) and played 🏐Volleyball for my High School Team
 
 ### Languages and Tools ###
